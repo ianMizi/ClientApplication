@@ -15,7 +15,7 @@ namespace ClientApplication.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page.Testing GIT";
 
             return View();
         }
